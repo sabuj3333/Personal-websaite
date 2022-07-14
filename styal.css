@@ -1,0 +1,43 @@
+body{
+    margin: 0;
+    font-family: unset;
+}
+h1{
+    font-size: 50px;
+}
+.name-highlight{
+    color: orange;
+}
+.half-width{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+.half-width img{
+    width: 70%;
+}
+.link-button{
+    text-decoration: none;
+    background-image: -webkit-linear-gradient(45deg,orange,tomato);
+    padding: 10px 20px;
+    border-radius: 10px;
+}
+.top-banner{
+    background-image: url("imges/biography-bg.png");
+    background-repeat: no-repeat;
+}
+.center{
+    text-align: center;
+}
+section{
+    height: 500px;
+}
+.fast-banner{
+    background-image: url("imges/header-bg.png");
+    background-repeat: no-repeat;
+}
+.second-banner{
+    background-image: url("imges/latest-work-bg.png");
+    background-repeat: no-repeat;
+}
